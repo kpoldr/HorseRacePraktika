@@ -29,3 +29,4 @@ node restartDb.js
 
 ![alt text](https://github.com/kpoldr/HorseRacePraktika/blob/main/misc/HorseRace.jpeg?raw=true)
 
+Does have bad routing 
